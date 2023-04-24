@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+    
+}
+:root {
+--color-112d32 :#112d32;
+}
+body{
+    font-family: 'Lato', sans-serif;
+    text-decoration-thickness: Light 300;
+}
+a{
+    text-decoration: none;
+    display:inline-block;
+}
+
+/* Header Part Starts Here*/
+.header-top-strip{
+background-color: var(--color-112d32);
+}
+/* Header Part Ends Here */
